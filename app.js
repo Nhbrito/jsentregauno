@@ -1,7 +1,7 @@
 let inicio = "SushiStyle";
 
 //alerta de bienvenida al usuario
-alert("Bienvenido a SushiStyle");
+alert("Bienvenido a SushiStyles");
 
 //indicar al usuario que ingrese su nombre y saludarlo
 let nombre = prompt("Ingresa tu nombre");
